@@ -1,5 +1,5 @@
 # Get-Well-Stay-Well
-A mobile application to prevent hospital readmissions within 30 days of discharge. 
+A mobile application to prevent hospital readmissions. This will target high-risk populations at risk of readmission within 30 days of discharge. 
 
 ## Table of Contents
 
